@@ -1,8 +1,5 @@
 import csv
 from pprint import pprint
-'''
-Project 1 completed by Evelyn Delph and Hunter Davis
-'''
 ### PART  1 #####################################################################
 # Step 1. load employees first ##################################################
 
